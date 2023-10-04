@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628716470035",
+    "project_id": "kotlin-college",
+    "storage_bucket": "kotlin-college.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628716470035:android:34f6742b178f79f440a4e6",
+        "android_client_info": {
+          "package_name": "com.sarthakmalhotra.lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBImAZubGgNKvDR8ypKw1qpwrfb8QhU8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
